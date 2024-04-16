@@ -13,7 +13,7 @@ Tijdens dit labo leer je
 
  - [API: News API](https://newsapi.org)
  - endpoint: /top-headlines
-
+f745506cbed642ab8558af64d65ec648
 ---
 
 1. Maak een nieuw verzoek naar de API.
